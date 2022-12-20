@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gurditt</h1>
-<h3 align="center">A competitive programmer from Delhi, India</h3>
+<h3 align="center">A C++ programmer from Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurditt1508&label=Profile%20views&color=0e75b6&style=flat" alt="gurditt1508" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurditt1508" alt="gurditt1508" /></a> </p>
 
-- 🔭 I’m currently working on **competitive programming**
+- 🔭 I’m currently working on **competitive programming and web deveopment**
 
-- 🌱 I’m currently learning **Segment Trees and randomized algorithms**
+- 🌱 I’m currently learning **HTML and randomized algorithms**
 
 - 💬 Ask me about **CP, Data Structures and Algorithms**
 
 - 📫 How to reach me **gurdittsingh1508@gmail.com**
 
-- ⚡ Fun fact **Imagine coding and not crying. That's it - just imagine :,)**
+- ⚡ Fun fact **She's a 10, but in binary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
