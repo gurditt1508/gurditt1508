@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **gurdittsingh1508@gmail.com**
 
-- ⚡ Fun fact **Imagine coding and not crying. That's it - just imagine :,)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gurditt1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gurditt1508" height="30" width="40" /></a>
