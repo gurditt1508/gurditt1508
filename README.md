@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **randomized algorithms and CSS**
 
-- 💬 Ask me about **CP, Data Structures and Algorithms and web development**
+- 💬 Ask me about **Data Structures and Algorithms, web development**
 
 - 📫 How to reach me **gurdittsingh1508@gmail.com**
 
